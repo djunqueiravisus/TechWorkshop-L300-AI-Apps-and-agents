@@ -1,4 +1,4 @@
-# Core Libraries
+# Core Libraries for this chat
 import os
 import asyncio
 import datetime
